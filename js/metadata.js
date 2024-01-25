@@ -18,7 +18,7 @@ This file should contain static experimental metadata such as:
     METADATA
 */
 // DEBUG MODE
-var DEBUG = true;   // Always start coding in DEBUG mode
+var DEBUG = false;   // Always start coding in DEBUG mode
 
 //      Experiment Name
 var EXPERIMENT_NAME             = "Target Intercept Game";
